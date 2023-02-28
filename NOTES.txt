@@ -1,0 +1,24 @@
+Learning Notes
+
+Daily practice summary:
+
+January 2023:
+- Started with basic programs
+- Learned fundamental concepts
+- Implemented simple algorithms
+
+February 2023:
+- Advanced to complex programs
+- Matrix operations
+- Sorting algorithms
+- Mathematical series
+- Number theory
+
+Key achievements:
+- Consistent daily practice
+- Progressive difficulty increase
+- Variety of programming concepts
+- Problem solving skills improvement
+
+This practice routine has helped me understand C++ programming better.
+Planning to continue learning more advanced topics.
